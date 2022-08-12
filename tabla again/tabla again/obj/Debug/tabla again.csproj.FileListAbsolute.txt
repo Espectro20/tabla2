@@ -1,0 +1,11 @@
+C:\Users\20211919\source\repos\tabla again\tabla again\obj\Debug\tabla again.csproj.AssemblyReference.cache
+C:\Users\20211919\source\repos\tabla again\tabla again\obj\Debug\tabla again.csproj.SuggestedBindingRedirects.cache
+C:\Users\20211919\source\repos\tabla again\tabla again\obj\Debug\tabla_again.Form1.resources
+C:\Users\20211919\source\repos\tabla again\tabla again\obj\Debug\tabla_again.Properties.Resources.resources
+C:\Users\20211919\source\repos\tabla again\tabla again\obj\Debug\tabla again.csproj.GenerateResource.cache
+C:\Users\20211919\source\repos\tabla again\tabla again\obj\Debug\tabla again.csproj.CoreCompileInputs.cache
+C:\Users\20211919\source\repos\tabla again\tabla again\bin\Debug\tabla again.exe.config
+C:\Users\20211919\source\repos\tabla again\tabla again\bin\Debug\tabla again.exe
+C:\Users\20211919\source\repos\tabla again\tabla again\bin\Debug\tabla again.pdb
+C:\Users\20211919\source\repos\tabla again\tabla again\obj\Debug\tabla again.exe
+C:\Users\20211919\source\repos\tabla again\tabla again\obj\Debug\tabla again.pdb
